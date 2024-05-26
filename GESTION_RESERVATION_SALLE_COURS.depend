@@ -1,0 +1,246 @@
+# depslib dependency file v1.0
+1704232897 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\tds pratique\gestion_reservation_salle_cours\enseignants.c
+	<stdio.h>
+	<string.h>
+	"saisir_chaine.h"
+	"ENSEIGNANTS.h"
+	<malloc.h>
+	<string.h>
+	"CLASSES.h"
+	"RESERVATIONS.h"
+
+1703976737 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\tds pratique\gestion_reservation_salle_cours\etudiants.c
+	<stdio.h>
+
+1704209551 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\tds pratique\gestion_reservation_salle_cours\matieres.c
+	<stdio.h>
+
+1704225593 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\tds pratique\gestion_reservation_salle_cours\reservations.c
+	<stdio.h>
+	"RESERVATIONS.h"
+	"COUR.h"
+
+1704216052 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\tds pratique\gestion_reservation_salle_cours\salles.c
+	<stdio.h>
+	"SALLES.h"
+
+1704231795 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\tds pratique\gestion_reservation_salle_cours\administrateurs.c
+	<stdio.h>
+	"ADMINISTRATEURS.h"
+	"ENSEIGNANTS.h"
+	"COUR.h"
+	"HORAIRE.h"
+	"CLASSES.h"
+	"MATIERES.h"
+	"RESERVATIONS.h"
+	"SALLES.h"
+
+1704206046 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\tds pratique\gestion_reservation_salle_cours\classes.c
+	<stdio.h>
+	"CLASSES.h"
+
+1704231768 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\tds pratique\gestion_reservation_salle_cours\main.c
+	<stdio.h>
+	"ENSEIGNANTS.h"
+	"CLASSES.h"
+	"MATIERES.h"
+	"HORAIRE.h"
+	"SALLES.h"
+	"COUR.h"
+	"RESERVATIONS.h"
+	"ADMINISTRATEURS.h"
+
+1704212848 c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\tds pratique\gestion_reservation_salle_cours\administrateurs.h
+
+1704209751 c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\tds pratique\gestion_reservation_salle_cours\saisir_chaine.h
+
+1704209744 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\tds pratique\gestion_reservation_salle_cours\saisir_chaines.c
+	<stdio.h>
+	<malloc.h>
+	"saisir_chaine.h"
+
+1704208052 c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\tds pratique\gestion_reservation_salle_cours\enseignants.h
+
+1704231586 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\tds pratique\gestion_reservation_salle_cours\cour.c
+	<stdio.h>
+	"SALLES.h"
+	<stdbool.h>
+	"COUR.h"
+
+1704231684 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\tds pratique\gestion_reservation_salle_cours\horaire.c
+	<stdio.h>
+
+1704108234 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\tds pratique\gestion_reservation_salle_cours\jour.c
+
+1704206012 c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\tds pratique\gestion_reservation_salle_cours\classes.h
+
+1704209547 c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\tds pratique\gestion_reservation_salle_cours\matieres.h
+
+1704209484 c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\tds pratique\gestion_reservation_salle_cours\horaire.h
+
+1704216065 c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\tds pratique\gestion_reservation_salle_cours\salles.h
+
+1704231656 c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\tds pratique\gestion_reservation_salle_cours\cour.h
+
+1704216332 c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\tds pratique\gestion_reservation_salle_cours\reservations.h
+
+1704231796 source:c:\users\t470s\desktop\gestion_reservation_salle_cours\administrateurs.c
+	<stdio.h>
+	"ADMINISTRATEURS.h"
+	"ENSEIGNANTS.h"
+	"COUR.h"
+	"HORAIRE.h"
+	"CLASSES.h"
+	"MATIERES.h"
+	"RESERVATIONS.h"
+	"SALLES.h"
+
+1704212850 c:\users\t470s\desktop\gestion_reservation_salle_cours\administrateurs.h
+
+1704208054 c:\users\t470s\desktop\gestion_reservation_salle_cours\enseignants.h
+
+1704231658 c:\users\t470s\desktop\gestion_reservation_salle_cours\cour.h
+
+1704209486 c:\users\t470s\desktop\gestion_reservation_salle_cours\horaire.h
+
+1704206014 c:\users\t470s\desktop\gestion_reservation_salle_cours\classes.h
+
+1704209548 c:\users\t470s\desktop\gestion_reservation_salle_cours\matieres.h
+
+1704216334 c:\users\t470s\desktop\gestion_reservation_salle_cours\reservations.h
+
+1704216066 c:\users\t470s\desktop\gestion_reservation_salle_cours\salles.h
+
+1704206048 source:c:\users\t470s\desktop\gestion_reservation_salle_cours\classes.c
+	<stdio.h>
+	"CLASSES.h"
+
+1704236030 source:c:\users\t470s\desktop\gestion_reservation_salle_cours\cour.c
+	<stdio.h>
+	"SALLES.h"
+	<stdbool.h>
+	"COUR.h"
+
+1704232898 source:c:\users\t470s\desktop\gestion_reservation_salle_cours\enseignants.c
+	<stdio.h>
+	<string.h>
+	"saisir_chaine.h"
+	"ENSEIGNANTS.h"
+	<malloc.h>
+	<string.h>
+	"CLASSES.h"
+	"RESERVATIONS.h"
+
+1704209752 c:\users\t470s\desktop\gestion_reservation_salle_cours\saisir_chaine.h
+
+1704231686 source:c:\users\t470s\desktop\gestion_reservation_salle_cours\horaire.c
+	<stdio.h>
+
+1704231770 source:c:\users\t470s\desktop\gestion_reservation_salle_cours\main.c
+	<stdio.h>
+	"ENSEIGNANTS.h"
+	"CLASSES.h"
+	"MATIERES.h"
+	"HORAIRE.h"
+	"SALLES.h"
+	"COUR.h"
+	"RESERVATIONS.h"
+	"ADMINISTRATEURS.h"
+
+1704209552 source:c:\users\t470s\desktop\gestion_reservation_salle_cours\matieres.c
+	<stdio.h>
+
+1704225594 source:c:\users\t470s\desktop\gestion_reservation_salle_cours\reservations.c
+	<stdio.h>
+	"RESERVATIONS.h"
+	"COUR.h"
+
+1704209746 source:c:\users\t470s\desktop\gestion_reservation_salle_cours\saisir_chaines.c
+	<stdio.h>
+	<malloc.h>
+	"saisir_chaine.h"
+
+1704216054 source:c:\users\t470s\desktop\gestion_reservation_salle_cours\salles.c
+	<stdio.h>
+	"SALLES.h"
+
+1704299107 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\gestion_reservation_salle_cours\gestion_reservation_salle_cours\administrateurs.c
+	<stdio.h>
+	"ADMINISTRATEURS.h"
+	"ENSEIGNANTS.h"
+	"COUR.h"
+	"HORAIRE.h"
+	"CLASSES.h"
+	"MATIERES.h"
+	"RESERVATIONS.h"
+	"SALLES.h"
+
+1704212850 c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\gestion_reservation_salle_cours\gestion_reservation_salle_cours\administrateurs.h
+
+1704208054 c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\gestion_reservation_salle_cours\gestion_reservation_salle_cours\enseignants.h
+
+1704302440 c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\gestion_reservation_salle_cours\gestion_reservation_salle_cours\cour.h
+
+1704302440 c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\gestion_reservation_salle_cours\gestion_reservation_salle_cours\horaire.h
+
+1704206014 c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\gestion_reservation_salle_cours\gestion_reservation_salle_cours\classes.h
+
+1704299605 c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\gestion_reservation_salle_cours\gestion_reservation_salle_cours\matieres.h
+
+1704243567 c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\gestion_reservation_salle_cours\gestion_reservation_salle_cours\reservations.h
+
+1704299841 c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\gestion_reservation_salle_cours\gestion_reservation_salle_cours\salles.h
+
+1704299236 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\gestion_reservation_salle_cours\gestion_reservation_salle_cours\classes.c
+	<stdio.h>
+	"CLASSES.h"
+
+1704302438 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\gestion_reservation_salle_cours\gestion_reservation_salle_cours\cour.c
+	<stdio.h>
+	"SALLES.h"
+	<stdbool.h>
+	"COUR.h"
+
+1704292732 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\gestion_reservation_salle_cours\gestion_reservation_salle_cours\enseignants.c
+	<stdio.h>
+	<string.h>
+	"saisir_chaine.h"
+	"ENSEIGNANTS.h"
+	<malloc.h>
+	<string.h>
+	"CLASSES.h"
+	"RESERVATIONS.h"
+
+1704209752 c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\gestion_reservation_salle_cours\gestion_reservation_salle_cours\saisir_chaine.h
+
+1704231686 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\gestion_reservation_salle_cours\gestion_reservation_salle_cours\horaire.c
+	<stdio.h>
+
+1704244905 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\gestion_reservation_salle_cours\gestion_reservation_salle_cours\main.c
+	<stdio.h>
+	"ENSEIGNANTS.h"
+	"CLASSES.h"
+	"MATIERES.h"
+	"HORAIRE.h"
+	"SALLES.h"
+	"COUR.h"
+	"RESERVATIONS.h"
+	"ADMINISTRATEURS.h"
+
+1704209552 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\gestion_reservation_salle_cours\gestion_reservation_salle_cours\matieres.c
+	<stdio.h>
+
+1704244106 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\gestion_reservation_salle_cours\gestion_reservation_salle_cours\reservations.c
+	<stdio.h>
+	"RESERVATIONS.h"
+	"COUR.h"
+
+1704209746 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\gestion_reservation_salle_cours\gestion_reservation_salle_cours\saisir_chaines.c
+	<stdio.h>
+	<malloc.h>
+	"saisir_chaine.h"
+
+1704216054 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\gestion_reservation_salle_cours\gestion_reservation_salle_cours\salles.c
+	<stdio.h>
+	"SALLES.h"
+

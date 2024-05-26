@@ -1,0 +1,1 @@
+char * saisir_chaine();
